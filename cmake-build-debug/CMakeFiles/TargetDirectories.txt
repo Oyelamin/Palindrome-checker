@@ -1,0 +1,3 @@
+/Applications/cPrograms/palindrome-checker/cmake-build-debug/CMakeFiles/palindrome_checker.dir
+/Applications/cPrograms/palindrome-checker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Applications/cPrograms/palindrome-checker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
